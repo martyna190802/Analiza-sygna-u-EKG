@@ -1,3 +1,6 @@
-Marek;Kowalski;marek;123;Lekarz
-Ilona;Nowak;i;12;Administrator
-Andrzej;Morda;hb;12;Lekarz
+Marek;Kowalski;marek.kowalski;haslo;Lekarz
+Ilona;Nowak;iwona.nowak;haslo;Administrator
+Andrzej;Maciej;andrzej.maciej;haslo;Lekarz
+Krystyna;Dabrowska;krystyna.dabrowska;haslo;Lekarz
+Martyna;Firana;martyna.firana;haslo;Lekarz
+Andrzej;Jawor;andrzej.jawor;haslo;Administrator
